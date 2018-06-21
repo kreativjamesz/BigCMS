@@ -71,13 +71,88 @@
 						</ul>
 						<div class="tab-content" id="myTabContent">
 						  	<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-						  		<h1>qweqweqwe</h1>	
+						  		<table class="table table-bordered text-white bg-dark">
+						  			<thead class="bg-danger">
+						  				<tr>
+						  					<th width="25">No</th>
+						  					<th width="50">Activities</th>
+						  					<th width="25">Action</th>
+						  				</tr>
+						  			</thead>
+						  			<tbody class="text-gray-dark bg-faded">
+						  				<tr>
+						  					<td>1</td>
+						  					<td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus reiciendis nam aliquid debitis soluta numquam.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>2</td>
+						  					<td>Accusamus reiciendis nam aliquid debitis soluta numquam necessitatibus quam illum iste enim blanditiis nostrum incidunt.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>3</td>
+						  					<td>Illum iste enim blanditiis nostrum incidunt, voluptatibus quis assumenda, nemo, quasi voluptatum dolorem?</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  			</tbody>
+						  		</table>
 						  	</div>
 						  	<div class="tab-pane fade" id="profile" role="tabpanel" aria-labelledby="profile-tab">
-								<h1>qweqweqwe</h1>	
+								<table class="table table-bordered text-white bg-dark">
+						  			<thead class="bg-success">
+						  				<tr>
+						  					<th width="25">No</th>
+						  					<th width="50">Notifications</th>
+						  					<th width="25">Action</th>
+						  				</tr>
+						  			</thead>
+						  			<tbody class="text-gray-dark bg-faded">
+						  				<tr>
+						  					<td>1</td>
+						  					<td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus reiciendis nam aliquid debitis soluta numquam.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>2</td>
+						  					<td>Accusamus reiciendis nam aliquid debitis soluta numquam necessitatibus quam illum iste enim blanditiis nostrum incidunt.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>3</td>
+						  					<td>Illum iste enim blanditiis nostrum incidunt, voluptatibus quis assumenda, nemo, quasi voluptatum dolorem?</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  			</tbody>
+						  		</table>
 						  	</div>
 						  	<div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-								<h1>qweqweqwe</h1>	
+								<table class="table table-bordered text-white bg-dark">
+						  			<thead class="bg-primary">
+						  				<tr>
+						  					<th width="25">No</th>
+						  					<th width="50">Messages</th>
+						  					<th width="25">Action</th>
+						  				</tr>
+						  			</thead>
+						  			<tbody class="text-gray-dark bg-faded">
+						  				<tr>
+						  					<td>1</td>
+						  					<td>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusamus reiciendis nam aliquid debitis soluta numquam.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>2</td>
+						  					<td>Accusamus reiciendis nam aliquid debitis soluta numquam necessitatibus quam illum iste enim blanditiis nostrum incidunt.</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  				<tr>
+						  					<td>3</td>
+						  					<td>Illum iste enim blanditiis nostrum incidunt, voluptatibus quis assumenda, nemo, quasi voluptatum dolorem?</td>
+						  					<td><button class="btn btn-secondary btn-sm flat" href="">View</button><button class="btn btn-danger btn-sm flat" href="">Delete</button></td>
+						  				</tr>
+						  			</tbody>
+						  		</table>
 						  	</div>
 						</div>
 					</div>
